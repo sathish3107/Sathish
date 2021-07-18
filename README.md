@@ -9,6 +9,7 @@ The instructor during the session was Mr. Shaurya Sinha (a Data Analyst at Jio).
 
 <li>CSS
 
+<li>JS
 <br>during these 7 days, and everything was explained from the very basics so that anyone with zero experience on programming can learn.
 
 
